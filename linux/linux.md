@@ -8,43 +8,43 @@
 - регулярные выражения https://www.youtube.com/watch?v=PBkJIRmWynM
 ---
 **Задания**\
-http://github.com/AnastasiyaGapochkina01/elviraJek/blob/main/home_works/files.md
+http://github.com/AnastasiyaGapochkina01/elviraJek/blob/main/linux/home_works/files.md
 ## 03 - Пользователи и права доступа
 - урок - https://youtu.be/cGE64MxCswo
 ---
 **Задания**\
-https://github.com/AnastasiyaGapochkina01/elviraJek/blob/main/home_works/users.md
+https://github.com/AnastasiyaGapochkina01/elviraJek/blob/main/linux/home_works/users.md
 ## 04 - Установка ПО
 - урок - https://youtu.be/2RrmMs0FP18
 ---
 **Задания**\
-https://github.com/AnastasiyaGapochkina01/elviraJek/blob/main/home_works/soft.md
+https://github.com/AnastasiyaGapochkina01/elviraJek/blob/main/linux/home_works/soft.md
 ## 05 - Процессы
 - урок https://youtu.be/vWQ5KN9o70k
 ---
 **Задания**\
-https://github.com/AnastasiyaGapochkina01/elviraJek/blob/main/home_works/processes.md
+https://github.com/AnastasiyaGapochkina01/elviraJek/blob/main/linux/home_works/processes.md
 ## 06 - Работа с systemd
 - урок - https://youtu.be/fmVI9Q2LavI
 ---
 **Задания**\
-https://github.com/AnastasiyaGapochkina01/elviraJek/blob/main/home_works/systemd.md
+https://github.com/AnastasiyaGapochkina01/elviraJek/blob/main/linux/home_works/systemd.md
 ## 07 - bash-скрипты
 урок - https://youtu.be/kEpCiCb-y1Y
 ---
 **Задания**\
-https://github.com/AnastasiyaGapochkina01/elviraJek/blob/main/home_works/bash.md
+https://github.com/AnastasiyaGapochkina01/elviraJek/blob/main/linux/home_works/bash.md
 ## 08 Работа с файловой системой (advanced)
 - LVM https://youtu.be/DnUqaXJVdew
 - RAID - https://youtu.be/yDqkN2ecNEU
 ---
 **Задания**\
-https://github.com/AnastasiyaGapochkina01/elviraJek/blob/main/home_works/lvm.md
+https://github.com/AnastasiyaGapochkina01/elviraJek/blob/main/linux/home_works/lvm.md
 ## 09 - Запуск задач по расписанию (cron)
 - урок - https://youtu.be/hTkaCE5Mz8I
 ---
 **Задания**\
-https://github.com/AnastasiyaGapochkina01/elviraJek/blob/main/home_works/cron.md
+https://github.com/AnastasiyaGapochkina01/elviraJek/blob/main/linux/home_works/cron.md
 ## 10 - Сети
 - https://youtu.be/3zCQGen6VpA
 - https://youtu.be/2OljPJn3H1Q
