@@ -1,0 +1,1 @@
+Запустить на ВМ приложение из репозитория https://github.com/AnastasiyaGapochkina01/it-profs
