@@ -7,45 +7,46 @@
 - простая обработка текста https://youtu.be/MN1vu7haaO8
 - регулярные выражения https://www.youtube.com/watch?v=PBkJIRmWynM
 ---
-**Задания**
-
+**Задания**\
+http://github.com/AnastasiyaGapochkina01/elviraJek/blob/main/home_works/files.md
 ## 03 - Пользователи и права доступа
-https://youtu.be/cGE64MxCswo
+- урок - https://youtu.be/cGE64MxCswo
 ---
-**Задания**
-
+**Задания**\
+https://github.com/AnastasiyaGapochkina01/elviraJek/blob/main/home_works/users.md
 ## 04 - Установка ПО
-- установка ПО https://youtu.be/2RrmMs0FP18
-- сборка `deb` пакета Сборка `deb` пакета
+- урок - https://youtu.be/2RrmMs0FP18
 ---
-**Задания**
-
+**Задания**\
+https://github.com/AnastasiyaGapochkina01/elviraJek/blob/main/home_works/soft.md
 ## 05 - Процессы
-https://youtu.be/vWQ5KN9o70k
+- урок https://youtu.be/vWQ5KN9o70k
 ---
-**Задания**
-
+**Задания**\
+https://github.com/AnastasiyaGapochkina01/elviraJek/blob/main/home_works/processes.md
 ## 06 - Работа с systemd
-https://youtu.be/fmVI9Q2LavI
+- урок - https://youtu.be/fmVI9Q2LavI
 ---
-**Задания**
+**Задания**\
+https://github.com/AnastasiyaGapochkina01/elviraJek/blob/main/home_works/systemd.md
 ## 07 - bash-скрипты
-https://youtu.be/kEpCiCb-y1Y
+урок - https://youtu.be/kEpCiCb-y1Y
 ---
-**Задания**
+**Задания**\
+https://github.com/AnastasiyaGapochkina01/elviraJek/blob/main/home_works/bash.md
 ## 08 Работа с файловой системой (advanced)
 - LVM https://youtu.be/DnUqaXJVdew
 - RAID - https://youtu.be/yDqkN2ecNEU
 ---
-**Задания**
+**Задания**\
+https://github.com/AnastasiyaGapochkina01/elviraJek/blob/main/home_works/lvm.md
 ## 09 - Запуск задач по расписанию (cron)
-https://youtu.be/hTkaCE5Mz8I
+- урок - https://youtu.be/hTkaCE5Mz8I
 ---
-**Задания**
+**Задания**\
+https://github.com/AnastasiyaGapochkina01/elviraJek/blob/main/home_works/cron.md
 ## 10 - Сети
 - https://youtu.be/3zCQGen6VpA
 - https://youtu.be/2OljPJn3H1Q
 - https://youtu.be/abmnnC4kZnI
 - https://youtu.be/Bd9itUD1_aU
----
-**Задания**
